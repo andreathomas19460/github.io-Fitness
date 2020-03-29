@@ -40,7 +40,6 @@ router.get("/api/workouts", (req, res) => {
 
 router.get("/api/workouts/range", ({ query }, res) => {
   Workout.find({ day: { $gte: query.start, $lte: query.end }})
-//$gte is greater than; $lte is less than.
     .then(dbWorkout => {
       res.json(dbWorkout);
     })
