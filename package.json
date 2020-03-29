@@ -1,7 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "User Story\r As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.\r Business Context\r A consumer will reach their fitness goals quicker when they track their workout progress.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -15,5 +15,13 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.6",
     "morgan": "^1.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreathomas19460/github.io-Fitness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreathomas19460/github.io-Fitness/issues"
+  },
+  "homepage": "https://github.com/andreathomas19460/github.io-Fitness#readme"
 }
