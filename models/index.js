@@ -1,7 +1,9 @@
 'use strict';
 
-const workout = require(`./workout`);
+const Workout = require(`./workout`);
 
 module.exports = {
-    workout
+    Workout
 };
+
+

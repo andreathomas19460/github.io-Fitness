@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/andreathomas19460/github.io-Fitness/issues"
   },
-  "homepage": "https://github.com/andreathomas19460/github.io-Fitness#readme"
+  "homepage": "https://github.com/andreathomas19460/github.io-Fitness#readme",
+  "devDependencies": {}
 }
