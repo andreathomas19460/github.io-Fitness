@@ -31,7 +31,9 @@ A consumer will reach their fitness goals quicker when they track their workout 
 
 ## Link
 
- https://andreathomas19460.github.io/github.io-Fitness/
+https://salty-reaches-14018.herokuapp.com/
+
+https://andreathomas19460.github.io/github.io-Fitness/
  
 
 ## Status 
