@@ -49,7 +49,4 @@ router.get("/api/workouts/range", ({ query }, res) => {
 });
 
 
-router.post("/stats", (req, res) => {
-  res.sendFile(path.join(__dirname, "../public/stats.html"));
-});
 module.exports = router;
